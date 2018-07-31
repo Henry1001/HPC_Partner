@@ -1,1 +1,1 @@
-# HPC_Parter
+# HPC_Partner
